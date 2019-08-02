@@ -7,7 +7,7 @@ public class MadlibsOfTheAmazon {
 	public static void main(String[] args) {
 		// Put this sentence in a pop up:
 		// If you find yourself having to cross a piranha-infested river, here's how to do it...
-			JOptionPane.showMessageDialog(null, " ")
+			JOptionPane.showMessageDialog(null, " ");
 		// Get the user to enter an adjective
 			String adjective = JOptionPane.showInputDialog(null, "write an adjective");
 					 // Get the user to enter a type of liquid
